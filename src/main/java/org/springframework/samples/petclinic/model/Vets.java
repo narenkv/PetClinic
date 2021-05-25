@@ -27,7 +27,7 @@ import java.util.List;
  *
  * @author Arjen Poutsma
  */
-@XmlRootElement
+//@XmlRootElement
 public class Vets {
 
     private List<Vet> vets;
